@@ -1,1 +1,1 @@
-This is a readme on airbnb mysql project
+This is a read me
